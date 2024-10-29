@@ -1,0 +1,1 @@
+i have created a sever to slove the problem which run on localhost 3000 port the soution can be displayed on post request by sending the json body inputs as input by using only post request we get the output this can be done on using postman tool and i have created a function /calulatesecret as post request
